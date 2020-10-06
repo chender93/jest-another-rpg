@@ -5,7 +5,7 @@
 Welcome to a fun, fantasy game utilzing node.js. You'll be whisked off into another dimension where you'll have to fight for honor, justice, and your one true love. Will you be able to make it out alive? This project was created as a homework assignment for the UPenn LPS Bootcamp. 
 
 ### License Info
-![Apache License Badge](https://img.shields.io/badge/license-Apache-blue)
+This app does not have any licensing restrictions.
 
 ## Table of Contents
 
